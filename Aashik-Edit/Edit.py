@@ -24,10 +24,10 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="sυᴘᴘσʀᴛ", url=f"https://t.me/kanhaxduniya"),
-        InlineKeyboardButton(text="υᴘᴅᴀᴛᴇ", url=f"https://github.com/about_kanhaa"),
+        InlineKeyboardButton(text="υᴘᴅᴀᴛᴇ", url=f"https://t.me/about_kanhaa"),
     ],    
     [
-        InlineKeyboardButton(text="hᴅᴇᴠᴇʟσᴘᴇʀ", url=f"https://t.me/Oyekanhaa"),
+        InlineKeyboardButton(text="ᴅᴇᴠᴇʟσᴘᴇʀ", url=f"https://t.me/Oyekanhaa"),
     ],
     
 ]

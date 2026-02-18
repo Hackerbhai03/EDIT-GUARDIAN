@@ -18,8 +18,8 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="ʜєʟᴘ ᴧηᴅ ᴄσϻϻᴧηᴅ",
-            url=f"https://t.me/EditGuardian_xdBot?startgroup=true",
+            text="✙ ᴧᴅᴅ ᴍᴇ ᴛσ ʏσᴜʀ ᴄʜᴧᴛ ✙",
+            url=f"https://t.me/EdittGuardianBot?startgroup=true",
         ),
     ],
     [
